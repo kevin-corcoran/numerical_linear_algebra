@@ -1,0 +1,5 @@
+\contentsline {section}{5: Final Project}{1}{section*.1}%
+\contentsline {section}{\numberline {1}Part 1}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}SVD for image compression}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Iterative Methods}{4}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Gauss-Jacobi and Gauss-Seidel}{4}{subsubsection.1.2.1}%

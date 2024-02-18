@@ -1,0 +1,5 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{do} \PYG{n}{j} \PYG{o}{=} \PYG{l+m+mi}{1}\PYG{o}{:} \PYG{n}{m}\PYG{o}{\PYGZhy{}}\PYG{l+m+mi}{1}
+  \PYG{k}{do} \PYG{n}{i} \PYG{o}{=} \PYG{n}{j}\PYG{o}{+}\PYG{l+m+mi}{1}\PYG{o}{:} \PYG{n}{m}
+    \PYG{n}{ri} \PYG{o}{=} \PYG{n}{ri} \PYG{o}{\PYGZhy{}} \PYG{n}{rj}\PYG{o}{*}\PYG{p}{(}\PYG{n}{aij}\PYG{o}{/}\PYG{n}{ajj}\PYG{p}{)}
+\end{Verbatim}
